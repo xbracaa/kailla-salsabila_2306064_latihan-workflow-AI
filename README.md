@@ -20,8 +20,8 @@ Modelnya akan menebak apakah suatu barang perlu di-restock atau tidak. Jika stok
 Menguji Model
 Saya coba masukkan contoh produk baru, misalnya jumlah terjual = 8 dan stok tersisa = 3.
 Model akan memberikan jawaban:
-1 → produk harus di-restock.
-0 → stok masih cukup.
+  1 → produk harus di-restock.
+  0 → stok masih cukup.
 
 Menampilkan Grafik
 Saya buat scatter plot untuk melihat hubungan antara jumlah terjual, stok, dan keuntungan.
